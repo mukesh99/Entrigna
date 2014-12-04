@@ -1,0 +1,3 @@
+function ccall(){
+alert("c");
+}

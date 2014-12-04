@@ -1,0 +1,1 @@
+function acall(){alert("a");};function bcall(){alert("b2");};function ccall(){alert("c");};function dcall(){alert("d");};

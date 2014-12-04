@@ -1,0 +1,3 @@
+function acall(){
+alert("a");
+}
