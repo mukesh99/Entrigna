@@ -1,4 +1,4 @@
 Entrigna
 ========
 
-This is the project
+This is new project of tryid.
